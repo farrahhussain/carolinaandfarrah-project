@@ -1,10 +1,10 @@
 h1 {
-    color: red
+    color: pink
   }
 p {
-  color: blue;
+  color: pink;
   font-family: Helvetica; Arial;
-  font-size: 16px;
+  font-size: 50px;
 }
 ul li {
   background-color: yellow
@@ -17,3 +17,8 @@ ol li {
   background-color: teal
 }
 BEA
+1
+2
+3
+4
+5
