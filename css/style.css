@@ -19,8 +19,8 @@ li{
 }
 
 .btn btn-default btn-lg{
-display: inline;
-padding: 0px 20px 0px 20px
+  display: inline;
+  padding: 0px 20px 0px 20px
 }
 
 h1{
@@ -37,4 +37,10 @@ article{
 
 h2{
   text-align: center;
+}
+
+.form-group {
+  margin: auto;
+  width: 60%;
+  text-align: left;
 }
